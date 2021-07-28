@@ -13,16 +13,21 @@ My co-workers took over my computer when I left the room for a few moments, and 
 **H E L P !!!, someone installed it for me on the computer, how do I disable it?**
 
 Very simple, using the Task Manager or by restarting the computer.
+
 ###### (If this keeps happening, then your co-worker is very creative and he made sure to run it while the computer boots.)
 
 **Is it a virus?**
+
 No.
 
 **Will it encrypt my hard disk?**
+
 No.
 
 **Is it a virus?**
+
 I already said, no.
 
 **Is the exe file signed?**
+
 No, I wanted to avoid instances of someone accidentally distributing the file via GPO to the entire organization. (But if this happens to you, [please let me know how the Helpdesk staff responded](https://github.com/Burekasim/CrazyMouse/issues/new "please let me know how the Helpdesk staff responded")).
