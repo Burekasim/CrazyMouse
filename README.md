@@ -4,6 +4,7 @@
 
 
 **What does it do?**
+
 This is a very simple piece of Python code that uses a PyAutoGUI, time and random python library to move the mouse randomly on the screen forever (or until the computer restarts).
 
 **Why did you write this?**
