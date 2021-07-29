@@ -1,6 +1,6 @@
 # CrazyMouse
 ### Did your co-worker forget to lock the computer again when he left the room?
-## Run CrazyMouse.exe on his/her computer!
+## Run Crazy_Mouse.exe on his/her computer!
 
 
 **What does it do?**
