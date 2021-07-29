@@ -40,5 +40,5 @@ No, I wanted to avoid instances of someone accidentally distributing the file vi
 **How do I compile the python file?**
 
 Using [pyinstaller](https://www.pyinstaller.org/ "pyinstaller") library, you can build the exe by running:
-`pyinstaller.exe --onefile --windowed crazy_mouse.py
-`
+
+`pyinstaller.exe --onefile --windowed crazy_mouse.py`
